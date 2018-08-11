@@ -1,24 +1,10 @@
-# README
+# PolgateApp概要
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## デザイン
+Progateのレッスン成果物をベースとする（色は黄色が基調）
+## 機能
+ログイン、ユーザー登録、進捗報告、タイムライン、いいね、コメント
+## 分担
+-HP作成→Osawaさん
+-Webサービス→その他3人（タスクは基本僕が振ります）
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
